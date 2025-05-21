@@ -94,9 +94,9 @@ A: Edit the menu file to add more dishes; the system will load them on next star
 A: Enter `reset` after starting the program and confirm, or simply delete the `user_preference.json` file.
 
 **Q: Can I add new cuisines?**  
-A: Yes, simply add new cuisine and dish entries in the `menu.txt`  file.
+A: Yes, simply add new cuisine and dish entries in the `menu.txt` file.
 
 ---
 
-Hope this simple Meal Recommendation System helps solve your "what to eat" dilemmas!
+Hope this simple Meal Recommendation System helps solve your "what to eat" dilemmas!  
 Bon appétit !
