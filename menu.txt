@@ -1,0 +1,58 @@
+Chinese Cuisine,Dumplings
+Chinese Cuisine,Tomato and Egg Noodles
+Chinese Cuisine,Shredded Pork with Green Peppers
+Chinese Cuisine,Twice-cooked Pork
+Chinese Cuisine,Spicy Chicken Cubes
+Chinese Cuisine,Stir-fried Pork
+Chinese Cuisine,Braised Pork Belly
+Chinese Cuisine,Potato and Beef Brisket
+Chinese Cuisine,Cleared Stewed Beef
+Chinese Cuisine,Kung Pao Chicken
+Chinese Cuisine,Mapo Tofu
+Chinese Cuisine,Steamed Fish with Ginger and Scallions
+Chinese Cuisine,Egg Fried Rice
+
+Western Cuisine,Steak
+Western Cuisine,Spaghetti
+Western Cuisine,Pizza
+Western Cuisine,Salad
+Western Cuisine,Fish and Chips
+Western Cuisine,Grilled Chicken Breast
+Western Cuisine,Mashed Potatoes
+Western Cuisine,Caesar Salad
+Western Cuisine,Baked Salmon
+
+Japanese Cuisine,Sushi
+Japanese Cuisine,Sashimi
+Japanese Cuisine,Tempura
+Japanese Cuisine,Ramen
+Japanese Cuisine,Yakitori
+Japanese Cuisine,Udon Noodles
+Japanese Cuisine,Okonomiyaki
+Japanese Cuisine,Miso Soup
+
+Korean Cuisine,Kimchi Soup
+Korean Cuisine,Bibimbap
+Korean Cuisine,Korean BBQ
+Korean Cuisine,Fried Chicken
+Korean Cuisine,Hot Chicken Noodles
+Korean Cuisine,Spicy Rice Cakes
+Korean Cuisine,Cold Noodles
+Korean Cuisine,Soybean Paste Stew
+
+Indian Cuisine,Chicken Curry
+Indian Cuisine,Naan Bread
+Indian Cuisine,Mutton Curry
+Indian Cuisine,Biryani
+Indian Cuisine,Tandoori Chicken
+Indian Cuisine,Samosa
+Indian Cuisine,Palak Paneer
+Indian Cuisine,Masala Dosa
+
+Southeast Asian Cuisine,Tom Yum Soup
+Southeast Asian Cuisine,Nasi Lemak
+Southeast Asian Cuisine,Seafood Hot Pot
+Southeast Asian Cuisine,Pad Thai
+Southeast Asian Cuisine,Green Papaya Salad
+Southeast Asian Cuisine,Chicken Satay
+Southeast Asian Cuisine,Vietnamese Pho
